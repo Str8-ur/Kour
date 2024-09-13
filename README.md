@@ -1,3 +1,3 @@
 # Kour.io Script
 
-Just add to TamperMonkey or ViolentMonkey, I doesn't matter.
+Just add to TamperMonkey or ViolentMonkey, it doesn't matter.
